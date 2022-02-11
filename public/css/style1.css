@@ -1,0 +1,17 @@
+
+#submenu{
+    padding-top: 15px;
+    margin-top: 0px; 
+    
+   display: block;
+    line-height: 15px;
+}
+#submenu>a{
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block;
+}
+#submenu>a:hover{
+    color: #a94442;
+    background-color: white;
+}

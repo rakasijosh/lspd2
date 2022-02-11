@@ -1,0 +1,109 @@
+body{
+    padding-top: 50px;
+    font-family: time new roman;
+}
+
+#introImage{
+    position: relative;
+    padding-bottom:  0;
+    margin-bottom: 0px;
+    overflow: hidden;
+    height: 350px;
+    background-image: url(../image1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position: top center;
+
+
+}
+
+#introBk{
+    position: relative;
+    padding-bottom:  0;
+    margin-bottom: 0px;
+    overflow: hidden;
+    height: 350px;
+
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position: top center;
+    background: rgba(0,0,0,0.5)
+}
+
+#details{
+    border: 2px solid #337ab7;
+    background: white;
+    border-radius: 20px;
+    margin:10px 0px 10px 0px;  
+}
+
+#introText{
+    font-weight:700;
+    font-size: 700%;
+    color: whitesmoke;
+}
+
+#rightSide{
+    font-size: 200%;
+
+}
+
+
+#detailImage{
+    width: 230px;
+    height: 300px;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: -10px
+}
+
+#detailInfo{
+    font-size: 200%;
+}
+
+h2.detailIntro{
+    font-size: 300%;
+    font-weight: 700;
+    color: #337ab7;
+}
+
+.buttons{
+    margin-bottom: 20px;
+}
+
+
+.navbar-default .navbar-nav li a{
+
+    margin: 5px;
+    font-size: 150%;
+    color:#337ab7;
+
+}
+.navbar-default .navbar-nav{
+    padding-left: 0px;
+}
+
+#footer{
+    background: #337ab7;
+    font-size: 150%
+}
+
+#liHead{
+
+    font-size: 120%;
+    border-bottom: 2px solid #337ab7;
+    color: #fff;
+}
+.navbar-default .navbar-brand{
+    color: #337ab7;
+    font-size: 300%;
+    font-weight: 600;
+}
+
+.desc{
+    font-size: 200%;  
+}
+
+#mainCon{
+    margin-top: 20px;
+}

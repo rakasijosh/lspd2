@@ -1,0 +1,14 @@
+.btn-default, .panel-default, .alert-default{
+    background-color: #cc0003;
+    color: white;
+}
+
+.btn-default:hover{
+    color: #cc0003;
+    background-color: white;
+}
+
+#signup h2, #login h2{
+    text-align: center;
+    color: #cc0003;
+}
